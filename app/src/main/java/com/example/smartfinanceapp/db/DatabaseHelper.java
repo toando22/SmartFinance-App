@@ -12,9 +12,7 @@ import android.util.Log;
 
 import com.example.smartfinanceapp.model.Budgets;
 import com.example.smartfinanceapp.model.Categories;
-import com.example.smartfinanceapp.model.Expenses;
 import com.example.smartfinanceapp.model.Users;
-import com.example.smartfinanceapp.ui.expense.ViewExpenseActivity;
 import com.example.smartfinanceapp.ui.expense.ViewExpenseActivity;
 import com.example.smartfinanceapp.ui.income.ViewIncomeActivity;
 
