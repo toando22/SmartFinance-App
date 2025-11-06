@@ -42,4 +42,7 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
     implementation("androidx.sqlite:sqlite:2.4.0")
     implementation("at.favre.lib:bcrypt:0.10.2")
+    implementation("com.github.yukuku:ambilwarna:2.0.1")
+
+
 }

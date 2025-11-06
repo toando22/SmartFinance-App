@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartFinanceApp">
         <activity
+            android:name=".ui.category.EditCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.category.AddCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.category.AddCategory"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
